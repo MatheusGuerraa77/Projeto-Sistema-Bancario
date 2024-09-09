@@ -1,0 +1,2 @@
+# Projeto-Sistema-Bancario
+ Neste projeto, tive a oportunidade de desenvolver um Sistema Bancário em Python, no qual implementei as três operações essenciais: depósito, saque e extrato. O sistema foi projetado para simular as operações de um banco que busca monetizar suas atividades. Aplicando meus conhecimentos em programação Python e junto com conteúdo do bootcamp da NTT DATA, criei um sistema funcional que realiza transações bancárias de forma eficiente, proporcionando uma experiência prática e realista no desenvolvimento de software.
