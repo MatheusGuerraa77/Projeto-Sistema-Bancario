@@ -1,5 +1,5 @@
 # Projeto-Sistema-Bancario
- Neste projeto, tive a oportunidade de desenvolver um Sistema Bancário em Python junto com conteúdo do bootcamp da NTT DATA, criei um sistema funcional que realiza transações bancárias, proporcionando uma experiência prática no desenvolvimento de software.
+Tive a oportunidade de desenvolver um Sistema Bancário em Python junto com conteúdo do bootcamp da NTT DATA, criei um sistema funcional que realiza transações bancárias, proporcionando uma experiência prática no desenvolvimento de software.
 
 Este projeto implementa um sistema bancário, com funcionalidades típicas de gerenciamento de clientes, contas e transações financeiras, como saques, depósitos e consultas de extrato. A aplicação utiliza orientação a objetos para estruturar as entidades envolvidas (clientes, contas, transações, histórico, etc.) e permite interação através de um menu simples no terminal.
 
